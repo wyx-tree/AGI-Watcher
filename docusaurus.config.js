@@ -63,7 +63,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: '👋 Hello There',
+            docId: '首页',
             position: 'left',
             label: '文章',
           },
@@ -75,13 +75,13 @@ const config = {
 
           {
             href: 'https://github.com/wyx-tree/AGI-Watcher',
-            label: 'GitHub',
+            label: '🔥 GitHub',
             position: 'right',
           },
 
           {
             href: 'https://github.com/wyx-tree/AGI-Watcher',
-            label: '🔥 提反馈',
+            label: '⚡ 提意见',
             position: 'right',
             className: 'dev-portal-signup dev-portal-link',
           },
