@@ -15,8 +15,8 @@ const config = {
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/yx_logo.ico',
-  organizationName: 'thinkingjimmy',
-  projectName: 'Learning-prompt.github.io',
+  organizationName: 'RICK-AGI',
+  projectName: 'AGI-Watcher',
   trailingSlash: false,
   deploymentBranch: 'gh-pages',
 
@@ -63,24 +63,24 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: '👋 Welcome',
+            docId: '👋 Hello There',
             position: 'left',
-            label: 'Tutorial',
+            label: '文章',
           },
           {
             to: '/blog',
-            label: 'Version',
+            label: '版本',
             position: 'left'
           },
 
           {
-            href: 'https://github.com/thinkingjimmy/Learning-Prompt',
+            href: 'https://github.com/wyx-tree/AGI-Watcher',
             label: 'GitHub',
             position: 'right',
           },
 
           {
-            href: 'https://github.com/thinkingjimmy/Learning-Prompt',
+            href: 'https://github.com/wyx-tree/AGI-Watcher',
             label: '🔥 提反馈',
             position: 'right',
             className: 'dev-portal-signup dev-portal-link',

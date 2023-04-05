@@ -14,11 +14,11 @@ export default function HeroSection() {
             AGI Watcher
           </h1>
           <p className="text-sm text-text-400 lg:max-w-lg lg:text-base">
-            AGI
+            产品经理视角的AGI行业观察
           </p>
           <div className="mt-8 flex flex-col gap-4 lg:flex-row">
             <Link
-              href="/docs/👋 Welcome"
+              href="/docs/👋 Hello There"
               className="rounded-sm bg-primary px-12 py-2.5 text-center font-semibold text-white hover:text-white"
             >
               开始阅读
